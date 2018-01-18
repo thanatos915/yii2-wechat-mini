@@ -1,0 +1,19 @@
+{
+    "name": "thanatos/yii2-wechat-mini",
+    "description": "mini Wechat for yii, 小程序",
+    "authors": [
+        {
+            "name": "thanatos",
+            "email": "thanatos915@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.6",
+        "yiisoft/yii2-httpclient": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "thanatos\\wechat\\": ""
+        }
+    }
+}
