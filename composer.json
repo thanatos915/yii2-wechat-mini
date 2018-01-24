@@ -1,5 +1,5 @@
 {
-    "name": "thanatos915/yii2-wechat-mini",
+    "name": "thanatosxia/yii2-wechat-mini",
     "description": "mini Wechat for yii, 小程序",
     "authors": [
         {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "thanatos\\wechat\\": ""
+            "thanatosxia\\wechat\\": ""
         }
     }
 }
